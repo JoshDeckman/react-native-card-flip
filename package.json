@@ -24,7 +24,7 @@
   "author": "Ludwig Handel",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.13.1",
+    "react": "^16.11.0",
     "react-native": "^0.63.3"
   },
   "bugs": {
